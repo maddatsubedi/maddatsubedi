@@ -4,7 +4,7 @@
 </div>
 
 ### About Me
-I am Riton, a full stack developer and a BCA undergraduate at **Birendra Multiple Campus, TU**
+I am Riton, a full stack developer and a BCA undergraduate at **Birendra Multiple Campus, TU.**
 
 <!--END_SECTION:mrepol742-->
 
