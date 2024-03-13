@@ -3,7 +3,7 @@
     <img align="center" src="banner.gif">
 </div>
 
-<h1 align="center">Hello World, I am Riton</h1>
+## Hello World, I am Riton
 Greetings, Earthlings! I go by the name Riton.
 
 <!--END_SECTION:mrepol742-->
