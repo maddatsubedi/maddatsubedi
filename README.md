@@ -5,8 +5,8 @@
 
 ## Hello World, I am Riton
 **Greetings, Earthlings! I go by the name Riton.
-    <br>
-    I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.**
+<br>
+I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.**
 
 <!--END_SECTION:mrepol742-->
 
