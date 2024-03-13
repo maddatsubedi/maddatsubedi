@@ -4,7 +4,7 @@
 </div>
 
 ## Hello World, I am Riton
-Greetings, Earthlings! I go by the name Riton.
+**Greetings, Earthlings! I go by the name Riton.**
 
 <!--END_SECTION:mrepol742-->
 
