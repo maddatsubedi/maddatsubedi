@@ -4,13 +4,9 @@
 </div>
 
 ## Hello World, I am Riton
-<div>
     Greetings, Earthlings! I go by the name Riton.
     <br>
-</div>
-<div>
     I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.
-</div>
 
 <!--END_SECTION:mrepol742-->
 
