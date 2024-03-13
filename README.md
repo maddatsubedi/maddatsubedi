@@ -3,9 +3,13 @@
     <img align="center" src="banner.gif">
 </div>
 
-## Hello World, I am Riton
-**Greetings, Earthlings! I go by the name Riton.\n
-I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.**
+## Hello World, I am Riton<
+<div>
+    **Greetings, Earthlings! I go by the name Riton.**
+</div>
+<div>
+    __I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multiple Campus, TU.__
+</div>
 
 <!--END_SECTION:mrepol742-->
 
