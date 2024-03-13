@@ -3,7 +3,7 @@
     <img align="center" src="dino.gif">
 </div>
 
-### Hi there
+### Hi there,
 I am Riton, a full stack developer and a BCA undergraduate at **Birendra Multiple Campus, TU.**
 
 <!--END_SECTION:mrepol742-->
