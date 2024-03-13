@@ -4,7 +4,7 @@
 </div>
 
 <h1>About Me</h1>
-I am riton. A full stack developer
+I am Riton, a full stack developer and a BCA undergraduate at #Birendra Multiple Campus, TU
 
 <!--END_SECTION:mrepol742-->
 
