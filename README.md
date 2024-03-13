@@ -3,8 +3,8 @@
     <img align="center" src="dino.gif">
 </div>
 
-<h1>About Me</h1>
-I am Riton, a full stack developer and a BCA undergraduate at #Birendra Multiple Campus, TU
+#About Me
+I am Riton, a full stack developer and a BCA undergraduate at **Birendra Multiple Campus, TU**
 
 <!--END_SECTION:mrepol742-->
 
