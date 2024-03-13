@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img align="center" src="dino.gif">
+    <img align="center" src="banner.gif">
 </div>
 
 ### Hi there,
