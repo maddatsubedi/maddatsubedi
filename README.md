@@ -3,8 +3,8 @@
     <img align="center" src="dino.gif">
 </div>
 
-### Ah, you're here,
-I am riton.
+<h1>About Me</h1>
+I am riton. A full stack developer
 
 <!--END_SECTION:mrepol742-->
 
