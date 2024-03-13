@@ -3,8 +3,8 @@
     <img align="center" src="banner.gif">
 </div>
 
-### Hello World,
-I am Riton, a full stack developer and a BCA undergraduate at **Birendra Multiple Campus, TU.**
+<h1 align="center">Hello World, I am Riton</h1>
+Greetings, Earthlings! I go by the name Riton.
 
 <!--END_SECTION:mrepol742-->
 
