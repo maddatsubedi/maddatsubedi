@@ -35,10 +35,13 @@ I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multi
 :books: **Frameworks, Platforms and Libraries**
 
 ![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
-![Discord.js](https://img.shields.io/badge/discord.js-%23563D7C.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Discord.js](https://img.shields.io/badge/discord.js-%23563D7C.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 :cloud: Hosting/SaaS
 
