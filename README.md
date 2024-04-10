@@ -3,7 +3,6 @@
     <img align="center" src="banner.gif">
 </div>
 
-## Hello world, I am Riton
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world!;I+am+Riton)](https://git.io/typing-svg)
 
