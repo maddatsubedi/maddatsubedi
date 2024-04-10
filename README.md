@@ -3,6 +3,7 @@
     <img align="center" src="banner.gif">
 </div>
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hello+world!;I+am+Riton" alt="Typing SVG" /></a>
 
 **Greetings, Earthlings! I go by the name Riton.
