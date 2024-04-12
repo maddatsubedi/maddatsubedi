@@ -4,7 +4,7 @@
 </div>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&vCenter=true&random=false&width=435&lines=Hello+World!;I+am+Riton)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&vCenter=true&random=false&width=435&lines=Hello+World!;I+am+Riton)](https://git.io/typing-svg)
 
 **Greetings, Earthlings! I go by the name Riton.
 <br>
