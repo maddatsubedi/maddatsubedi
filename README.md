@@ -4,7 +4,7 @@
 </div>
 
 
-## Hello World
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&vCenter=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 **Greetings, Earthlings! I go by the name Riton.
 <br>
