@@ -54,6 +54,7 @@ I am a full-stack developer from Nepal. Currently pursuing BCA at Birendra Multi
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cpanel](https://img.shields.io/badge/cpanel-orange.svg?style=for-the-badge&logo=cpanel&logoColor=white)
 
 :floppy_disk: Databases
 
